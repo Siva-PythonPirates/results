@@ -1,0 +1,17 @@
+{
+  "name": "ctf-results",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "axios-cookiejar-support": "^1.0.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tough-cookie": "^4.0.0"
+  }
+}
